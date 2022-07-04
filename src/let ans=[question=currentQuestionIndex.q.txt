@@ -1,0 +1,2 @@
+let ans=[{question:question}, 
+    {answer:question.answers}]
